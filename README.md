@@ -1,1 +1,0 @@
-# neel-rest-service
